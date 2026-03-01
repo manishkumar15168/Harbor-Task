@@ -1,0 +1,16 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Cloned harbor repo (use Harbor from PyPI in this project)
+/harbor/
+
+# Harbor job outputs
+/jobs/

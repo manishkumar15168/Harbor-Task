@@ -1,0 +1,9 @@
+[project]
+name = "harbor-ai"
+version = "0.1.0"
+description = "Harbor task project for json-transformer"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "harbor>=0.1.45",
+]
